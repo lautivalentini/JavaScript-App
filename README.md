@@ -1,4 +1,4 @@
 # JavaScript-App
 Aplicación de tareas utilizando JavaScript Orientado a Objetos
 
-![Alt text](/../<branch name>/path/to/img.png?raw=true "Optional Title")
+![ScreenShot](https://github.com/i-saumitra/Voice-controlled-MP3-Player/blob/master/screenshot.jpg)
